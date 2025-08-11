@@ -1,8 +1,8 @@
 ## Hi there, I am Josh Hussey 👋
 
-🎓 **Recent CS Graduate** from Auburn University
-💻 Passionate about **Software Development** and **Database Managament**
-🤓 Currently seeking **Full Time** and **Internship** opportunities
+- 🎓 **Recent CS Graduate** from Auburn University
+- 💻 Passionate about **Software Development** and **Database Managament**
+- 🤓 Currently seeking **Full Time** and **Internship** opportunities
 
 📫 Reach me at: joshhussey0416@gmail.com
 <!--
