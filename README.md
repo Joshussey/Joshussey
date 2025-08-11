@@ -1,5 +1,10 @@
 ## Hi there, I am Josh Hussey 👋
 
+🎓 **Recent CS Graduate** from Auburn University
+💻 Passionate about **Software Development** and **Database Managament**
+🤓 Currently seeking **Full Time** and **Internship** opportunities
+
+📫 Reach me at: joshhussey0416@gmail.com
 <!--
 **Joshussey/Joshussey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
